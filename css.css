@@ -1,0 +1,118 @@
+
+body {
+  font-family: Courier, 'Courier New', monospace;
+  text-align: center;
+  color: #F0F3E5;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: .5fr 2fr .5fr .5fr;
+    grid-gap: 5px;
+}
+
+.boxA1{
+  position: relative;
+  display: block;
+  font-family: Courier, 'Courier New', monospace;
+  width: 270px;
+  height: 270px;
+  padding: 10px;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  line-height: 1.3em;
+  color: #F0F3E5;
+  background-color: #31668A;
+  border: 1px solid #31668A;
+
+  }
+
+.boxA2{
+  position: relative;
+  display: block;
+  font-family: Courier, 'Courier New', monospace;
+  width: 270px;
+  height: 270px;
+  padding: 10px;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  line-height: 1.3em;
+  color: #2C1E00;
+  background-color: #FFAA00;
+  border: 1px solid #FFAA00;
+
+  }
+
+  .boxA3{
+    position: relative;
+    display: block;
+    font-family: Courier, 'Courier New', monospace;
+    width: 270px;
+    height: 270px;
+    padding: 10px;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    line-height: 1.3em;
+    color: #F2F0EA;
+    background-color: #5D8D42;
+    border: 1pxsolid #5D8D42;
+
+  }
+
+  .boxB1{
+    position: relative;
+    display: block;
+    font-family: Courier, 'Courier New', monospace;
+    width: 270px;
+    height: 270px;
+    padding: 10px;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    line-height: 1.3em;
+    color: #ededed;
+    background-color: #DD3D00;
+    border: 1px solid #DD3D00;
+
+  }
+
+  .boxB2{
+    position: relative;
+    display: block;
+    font-family: Courier, 'Courier New', monospace;
+    width: 270px;
+    height: 270px;
+    padding: 10px;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    line-height: 1.3em;
+    color: #EA4062;
+    background-color: #F2F0EA;
+    border: 1px solid #F2F0EA;
+
+  }
+
+  .boxB3{
+    position: relative;
+    display: block;
+    font-family: Courier, 'Courier New', monospace;
+    width: 270px;
+    height: 270px;
+    padding: 10px;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    line-height: 1.3em;
+    color: #180b19;
+    background-color: #ff8f7b;
+    border: 1px solid #ff8f7b;
+
+  }
+
+.textbox {
+  font-family: Courier, 'Courier New', monospace;
+  text-align: left;
+  color: black;
+  width: 270px;
+  height: 540px;
+  padding: 10px;
+
+  }

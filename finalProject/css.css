@@ -1,7 +1,17 @@
 
-body {
+h1 {
   font-family: Courier, 'Courier New', monospace;
   text-align: center;
+  color: #F0F3E5;}
+
+h2 {
+  font-family: Courier, 'Courier New', monospace;
+  text-align: center;
+  color: #F0F3E5;}
+
+body {
+  font-family: Courier, 'Courier New', monospace;
+  text-align: left;
   color: #F0F3E5;
 }
 
@@ -21,7 +31,7 @@ body {
   margin: 0 10px 10px 0;
   text-decoration: none;
   line-height: 1.3em;
-  color: #F0F3E5;
+  color: #CAE3FC;
   background-color: #31668A;
   border: 1px solid #31668A
 
@@ -53,9 +63,9 @@ body {
     margin: 0 10px 10px 0;
     text-decoration: none;
     line-height: 1.3em;
-    color: #F2F0EA;
+    color: #FFAA00;
     background-color: #5D8D42;
-    border: 1pxsolid #5D8D42;
+    border: 1px solid #5D8D42;
 
   }
 
@@ -101,7 +111,7 @@ body {
     margin: 0 10px 10px 0;
     text-decoration: none;
     line-height: 1.3em;
-    color: #180b19;
+    color: #31668A;
     background-color: #ff8f7b;
     border: 1px solid #ff8f7b;
 
